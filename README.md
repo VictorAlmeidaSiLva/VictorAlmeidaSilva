@@ -27,13 +27,13 @@
   </div>
   
 ### Tecnologias familiarizadas
-  <div style ="display: inline_block"><br/>
+  <div><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   </div>
-  <div style ="display: inline_block"><br/>
+  <div><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   </div>
-  <div style ="display: inline_block"><br/>
+  <div><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
   </div>
 </div>
