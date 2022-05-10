@@ -5,7 +5,7 @@
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAlmeidaSiLva&show_icons=true&theme=radical)
 
-### Técnologias que eu uso no dia a dia
+### Tecnologias que eu uso no dia a dia
 <div style ="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   </div>
@@ -28,4 +28,7 @@
   </div>
   <div style ="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  </div>
+  <div style ="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   </div>
