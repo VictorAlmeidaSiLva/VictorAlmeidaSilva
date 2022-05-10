@@ -21,7 +21,8 @@
   <div style ="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </div>
-  ### Tecnologias familiarizadas
+  
+### Tecnologias familiarizadas
   <div style ="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   </div>
